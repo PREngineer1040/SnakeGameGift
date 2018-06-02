@@ -28,7 +28,6 @@ public class Panel extends JComponent
 		g2.fillRect(0, 0, SnakeMain.frameWidth,SnakeMain.frameHeight);
 		
 		
-		
 		//Here we draw the body of the snake
 		g2.setColor(Color.getHSBColor((float)354, (float)0.8010, (float)0.90889));
 

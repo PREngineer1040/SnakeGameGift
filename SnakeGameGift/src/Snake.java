@@ -205,6 +205,7 @@ public class Snake
 		this.dead=false;
 	}
 	
+	
 	public void key()
 	{
 		if (SnakeMain.keyStroke.isDownPressed()&& (this.yDirection==0||this.snakeLenght==0))

@@ -11,7 +11,6 @@ public class Input implements KeyListener{
 	private boolean downIsPressed;
 	private boolean upIsPressed;
 
-	
 
 
 	/**
