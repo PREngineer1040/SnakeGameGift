@@ -21,6 +21,7 @@ public class SnakeMain {
 		int tryAgain=2;
 		while (tryAgain!=1)
 		{	
+			
 			frame.repaint(); 
 			frameWidth= frame.getWidth(); 
 			frameHeight= frame.getHeight(); 

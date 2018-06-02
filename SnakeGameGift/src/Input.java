@@ -12,7 +12,6 @@ public class Input implements KeyListener{
 	private boolean upIsPressed;
 
 
-
 	/**
 	 * Create a new input handler
 	 * @param gameLogic the game logic handler

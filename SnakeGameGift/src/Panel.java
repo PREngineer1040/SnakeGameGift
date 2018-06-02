@@ -23,6 +23,7 @@ public class Panel extends JComponent
 		snake.food(); 
 
 		
+		
 		//Here we draw the background
 		g2.setColor(Color.DARK_GRAY);
 		g2.fillRect(0, 0, SnakeMain.frameWidth,SnakeMain.frameHeight);
