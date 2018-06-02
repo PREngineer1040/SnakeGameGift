@@ -27,19 +27,6 @@ public class Panel extends JComponent
 		g2.setColor(Color.DARK_GRAY);
 		g2.fillRect(0, 0, SnakeMain.frameWidth,SnakeMain.frameHeight);
 		
-		//Here we will draw the grid
-/*
-		g2.setColor(Color.WHITE);
-		for (int i=0;i<columns;i++)
-		{
-			g2.drawLine(ics*i+margins, 0+margins, i*ics+margins, 800-2*margins);
-		}
-		
-		for (int i=0;i<rows;i++)
-		{
-			g2.drawLine(0+margins, i*ics+margins, 500-2*margins, i*ics+margins);
-		}
-		*/
 		
 		
 		//Here we draw the body of the snake

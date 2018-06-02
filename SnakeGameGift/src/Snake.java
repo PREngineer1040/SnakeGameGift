@@ -35,7 +35,6 @@ public class Snake
 
 	}
 
-
 	public int getxPos() {
 		return xPos;
 	}

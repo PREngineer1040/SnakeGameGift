@@ -7,7 +7,7 @@ public class SnakeMain {
 
 	static Input keyStroke = new Input(); 
 		public static void main(String[] args) throws InterruptedException {
-		JFrame frame = new JFrame();
+		JFrame frame = new JFrame("SnakeGame");
 		frame.setSize(500,850);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocation(50, 50);
